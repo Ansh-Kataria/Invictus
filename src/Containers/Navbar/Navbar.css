@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  justify-content: start;
+}
+
+.login {
+  display: flex;
+  justify-content: end;
+}
+
+.login button:hover {
+  background-color: var(--color-secondary-1);
+  color: #222222;
+}
